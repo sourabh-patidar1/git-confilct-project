@@ -2,16 +2,12 @@
 
 This project is created to practice Git and GitHub workflows, especially:
 
-* Branching
-* Merging
-* Conflict creation
-* Conflict resolution
-
+* Branching,new added featureO * Merging * Conflict creation * Conflict resolution
 ---
 
 ## 📁 Project Structure
 
-* `index.html` → Main webpage
+* `index.html` → Main webpage master web
 * `style.css` → Styling file
 * `script.js` → JavaScript functionality
 
