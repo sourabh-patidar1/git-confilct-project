@@ -11,7 +11,7 @@ This project is created to practice Git and GitHub workflows, especially:
 
 ## 📁 Project Structure
 
-* `index.html` → Main webpage
+* `index.html` → Main webpage this is main page
 * `style.css` → Styling file
 * `script.js` → JavaScript functionality
 
